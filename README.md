@@ -31,11 +31,11 @@ Smart-Assistant-for-Research-Summarization/
 ├── logo.png               # App logo
 ├── requirements.txt       # Python dependencies
 └── .gitignore             # Ignore venv & cache files
-## 🧰 Setup Instructions
+###  🧰 Setup Instructions
 
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 
-```bash
+bash
 git clone <your-github-repo-url>
 cd <repo-directory>
 
