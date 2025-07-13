@@ -33,12 +33,12 @@ Smart-Assistant-for-Research-Summarization/
 └── .gitignore             # Ignore venv & cache files
 ## 🧰 Setup Instructions
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone <your-github-repo-url>
 cd <repo-directory>
-```
+
 ### 2. Create a virtual environment (recommended):
 ````
 python -m venv venv
