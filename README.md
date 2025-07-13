@@ -20,7 +20,6 @@ This project is a web application that enables users to upload PDF documents, ex
 - **Python**: Programming language used for development.
 
 ## 📂 Project Structure
-
 ```plaintext
 Smart-Assistant-for-Research-Summarization/
 │
@@ -32,31 +31,25 @@ Smart-Assistant-for-Research-Summarization/
 ├── logo.png               # App logo
 ├── requirements.txt       # Python dependencies
 └── .gitignore             # Ignore venv & cache files
-## Setup Instructions
+## 🧰 Setup Instructions
 
-### Prerequisites
+### 1. Clone the Repository
 
-Ensure Python 3.7 or higher is installed. Check your Python version with:
-
-## Installation
-
-1. Clone the repository:
-````
-git clone <repository_url>
-cd <repository_directory>
-````
-
-2. Create a virtual environment (recommended):
+```bash
+git clone <your-github-repo-url>
+cd <repo-directory>
+```
+### 2. Create a virtual environment (recommended):
 ````
 python -m venv venv
 ````
 
-3. Activate the virtual environment:
+### 3. Activate the virtual environment:
 ````
 venv\Scripts\activate
 ````
 
-4. Install the required packages:
+### 4. Install the required packages:
 ````
 pip install -r requirements.txt
 ````
