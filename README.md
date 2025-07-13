@@ -78,6 +78,11 @@ Upload PDF: Click the "Upload a PDF file" button to upload your PDF document.
 Summarize: Click the "Summarize" button to get a summary of the extracted text.
 Ask Questions: Enter your question in the text input field to get answers based on the PDF content.
 
+### Screenshots
+Below is a snapshot of the **Smart Assistant for Research Summarization** web app running on Streamlit.  
+It shows the clean, modern interface for uploading a PDF file to generate summaries and answer questions.
+![Screenshot 2025-07-13 225211.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20225211.png)
+
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project’s coding standards and includes tests where applicable.
