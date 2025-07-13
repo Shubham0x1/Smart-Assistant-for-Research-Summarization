@@ -81,6 +81,7 @@ Ask Questions: Enter your question in the text input field to get answers based 
 ### Screenshots
 Below is a snapshot of the **Smart Assistant for Research Summarization** web app running on Streamlit.  
 It shows the clean, modern interface for uploading a PDF file to generate summaries and answer questions.
+
 ![Screenshot 2025-07-13 225211.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20225211.png)
 
 ### Contributing
