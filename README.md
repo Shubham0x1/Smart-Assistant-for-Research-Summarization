@@ -1,4 +1,4 @@
-# PDF Text Summarization and Q&A Chatbot
+# 📚 Smart Assistant for Research Summarization
 
 ## Overview
 
@@ -19,6 +19,19 @@ This project is a web application that enables users to upload PDF documents, ex
 - **PyPDF2**: For extracting text from PDF files.
 - **Python**: Programming language used for development.
 
+## 📂 Project Structure
+
+```plaintext
+Smart-Assistant-for-Research-Summarization/
+│
+├── app.py                 # Streamlit main app
+├── summarizer.py          # T5-based summarization logic
+├── pdf_extractor.py       # PDF text extraction logic
+├── text_cleaner.py        # Text cleaning utilities
+├── QA_chatbot.py          # Q&A logic
+├── logo.png               # App logo
+├── requirements.txt       # Python dependencies
+└── .gitignore             # Ignore venv & cache files
 ## Setup Instructions
 
 ### Prerequisites
