@@ -31,6 +31,7 @@ Smart-Assistant-for-Research-Summarization/
 ├── logo.png               # App logo
 ├── requirements.txt       # Python dependencies
 └── .gitignore             # Ignore venv & cache files
+```
 ### 🧰 Setup Instructions
 
 ### 1. Clone the Repository
