@@ -91,6 +91,20 @@ and its extracted text displayed. Users can then summarize the text or ask quest
 
 ![Screenshot 2025-07-13 225737.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20225737.png)
 
+## ✅ Text Summarization Output
+
+This screenshot shows the **summary generation** feature of the Smart Assistant for Research Summarization.  
+After uploading a PDF and extracting its text, users can click **Summarize** to generate a clean summary of the content.
+
+![Screenshot 2025-07-13 231558.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20231558.png)
+
+## 🤖 Question Answering
+
+This screenshot demonstrates the **Q&A feature** of the Smart Assistant for Research Summarization.  
+After extracting or summarizing the PDF text, users can ask **custom questions**, and the system generates context-specific answers.
+
+![Screenshot 2025-07-13 232354.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20232354.png)
+
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project’s coding standards and includes tests where applicable.
