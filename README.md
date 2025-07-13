@@ -84,6 +84,13 @@ It shows the clean, modern interface for uploading a PDF file to generate summar
 
 ![Screenshot 2025-07-13 225211.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20225211.png)
 
+## 📝 PDF Upload and Extracted Text View
+
+This screenshot shows the **Smart Assistant for Research Summarization** app with a PDF file uploaded  
+and its extracted text displayed. Users can then summarize the text or ask questions about its content.
+
+![Screenshot 2025-07-13 225737.png](https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization/blob/main/Screenshot%202025-07-13%20225737.png)
+
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code adheres to the project’s coding standards and includes tests where applicable.
