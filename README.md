@@ -37,7 +37,7 @@ Smart-Assistant-for-Research-Summarization/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/Shubham0x1/Smart-Assistant-for-Research-Summarization>
 cd <repo-directory>
 ```
 ### 2. Create a virtual environment (recommended):
